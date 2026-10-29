@@ -1,0 +1,6 @@
+{
+  "name": "CalcPython",
+  "description": "Calculadora interativa com operações matemáticas básicas, validação amigável e histórico de cálculos da sessão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
